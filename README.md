@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu GitHub! 👋
 
-## Olá, eu sou Gabriel Eduardo Farinha, estudante de Ciência da Computação e desenvolvedor front-end.
+## Olá, me chamo Gabriel Eduardo Farinha. Sou estudante de Ciência da Computação e desenvolvedor front-end.
 
 ## 🛠 Habilidades e Tecnologias
 <div style="display: inline_block"><br>

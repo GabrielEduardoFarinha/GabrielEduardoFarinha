@@ -1,16 +1,34 @@
-## Hi there 👋
+## Bem-vindo ao meu GitHub! 👋
 
-<!--
-**GabrielEduardoFarinha/GabrielEduardoFarinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou Gabriel Eduardo Farinha, estudante de Ciência da Computação e desenvolvedor front-end.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades e Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+---
+
+## 🌱 O que estou aprendendo?
+
+No momento, estou revisando conceitos essenciais de programação durante minhas férias da faculdade. Meu foco é aprimorar ainda mais minhas habilidades em desenvolvimento front-end e explorar 
+tecnologias como React e React Native.
+
+---
+
+## 📫 Entre em contato
+
+- Email: **gabrieleduardofarinha@gmail.com**
+- LinkedIn: [Gabriel Eduardo Farinha](https://linkedin.com/in/GabrielEduardoFarinha)
+
+---
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e contribuir. 😄
+

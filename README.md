@@ -1,4 +1,6 @@
 ## Bem-vindo ao meu GitHub! 👋
+[![GabrielEduardoFarinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielEduardoFarinha&show_icons=true&theme=dark&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEduardoFarinha&theme=dark&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Olá, me chamo Gabriel Eduardo Farinha. Sou estudante de Ciência da Computação e desenvolvedor front-end.
 
